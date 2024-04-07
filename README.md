@@ -101,8 +101,12 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 
 ### 3.2. Level Map – Section 1
+![Section 1.1 map!](DocImages/Section1Part1.png) Image depicts Section 1 Map Part one, as the mapping would get too cluttered by the cross pathing, showing the pathing to the key
+
+![Section 1.2 map!](DocImages/Section1Part2.png) Image depicts Section 1 Map Part two, showing the pathing after the key and both branching pathways
 
 ### 3.3.	Level Map – Section 2
+![Section 2 map!](DocImages/Section2.png) Image depicts Section 2 Map
 
 ### 3.4.	Level Map – Section 3
 
