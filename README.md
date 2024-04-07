@@ -13,22 +13,40 @@ Your document must include images. To insert an image into your documentation, p
 
 Example:
 
-![This is the alt text for an image!](DocImages/Discovery.png)
+![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ## 1. Player Experience (~700 words)
 Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
 
-### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+## 1.1. Discovery
+What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice
 
-### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+I have constructed my level such that the player is always building upon their knowledge, creating a positive feedback loop as they discover and tinker around with mechanics, recognise the resulting dynamics, and reinforce their overall knowledge of the way in which the world works. This is illustrated especially by my design of section 1, as mechanics of columns and enemies are introduced to the player at this initial stage:
 
-### 1.3. Challenge
+At the very start, the player is teased by an impassable column, with some chompers behind it. However, as the player progresses they'll come to obtain the staff, and thus discover its destructive dynamic, as the mechanics of the fragility of the columns and the ability to kill enemies are revealed. Furthermore, this implicitly references the player’s next point of progression after obtaining the key, as the player makes the epiphany that they can go back to the column at the start, break it, and continue onwards. As such, my level design facilitates a positive loop of learning as the player is able to formulate their understanding of game mechanics through initial Discoveries, and develop them even further.
+![Discovery Example of Chomper and Column Breakage Link!](DocImages/Discovery.png)
+Image illustrates the connection of column and chomper mechanics
+
+## 1.2. Drama
+What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief?
+
+The intensity curve is rather intense as players are immediately plunged into a state of danger, hanging over an acid pool. However, this is modulated by respite in the form of health and checkpoints that, while sparse and few in between, grant the player a valuable reprieve to de-escalate the sense of Drama and tension. 
+
+This is demonstrated in section 2, as after the player successfully makes it to the other side and is rewarded by the checkpoint, they are faced with the imminent threat of the first spike drop. As such, Drama and trepidation is facilitated as the player must make the decision to fall through the deadly drop, only to be met by an entourage of new, blue spitter enemies, instating a new sense of surprise and fear. This is epitomised by the ending of section 2, as the player weathers through a barrage of spitters and reaches a Dramatic forte once they reach the second spike drop, marking the end of the dramatic arc as it rapidly plummets to rest once the player falls through to arrive at the rest stop.
+
+## 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-### 1.4. Exploration
+The main challenge of my level design is focused on the physical aspect of parkour, whilst touching upon the emotional and strategic aspects of combat. The difficulty curve correlates with the Dramatic arc, in which I gradually increase the challenge difficulty to keep the player engaged within a state of flow. As such, I have accounted for the balance of newly-introduced mechanics with those that have been previously established by combining the two to produce a fresh challenge.
+
+This is evident by the comparison of Chompers vs Spitters, from section 1 and 2 respectively, and their eventual coalition in section 3 to provide an ultimate challenge. This is balanced by the introduction to weaponry: The player only gets the Staff in section 1 to combat Chompers as using the Gun would trivialise the challenge. This is contrasted by the struggle of the Staff against the ranged Spitters in section 2, providing a greater challenge whilst enabling greater familiarity with the Staff until the player receives the Gun to use against the remaining Spitters and enemies in section 3. 
+
+## 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+Player inquisition is stoked by the non-linearity of my level design. This is expressed within section 1, as after breaking the column, the player is presented with two branching paths; one that is guarded by an enemy, and the other beckoning a treacherous challenge of parkour. As such, the player must deliberate on which path to take, instating a scenario of risk vs reward for them to explore. Thus, the player is incentivised to explore, being richly rewarded with health if they choose to do so; exerting their sense of autonomy. 
+
+Furthermore, the looping back of my layout of section 2 and 3 to connect back to the door revealed at the end of section 1 creates a sense of familiarity, and to distinctly make known the overall goal of opening the door. As such, the exit space is made distinct and memorable for the player to inevitably travel back to in completing the level.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
