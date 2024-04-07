@@ -72,7 +72,7 @@ You should restructure the headings below to match the order they appear in your
 ## 2.1. Acid
 Introduces immediate danger to the player, causing them to respawn to the starting checkpoint. As such, it introduces constant peril to platforming.
 ## 2.2. Spikes
-Introduces secondary danger to the player, causing them to take damage or potentially knock them into the acid, prompting a respawn. Thus, this prompts further peril when platforming.
+Introduces secondary danger to the player, causing them to take damage or potentially knock them into the acid, prompting a respawn. This prompts further peril when platforming.
 ## 2.3. Checkpoints
 Provides a visual indicator to where the player will respawn, and help aid progress. The initial checkpoint signifies the starting point, and will be reused once the player obtains the staff. As such, if the player falls into the acid, it provides a safe area to respawn.
 ## 2.4. Breakable Columns
@@ -92,6 +92,19 @@ Provides a one way to the staff and ensuing challenge of Chompers, allowing the 
 Provides the interaction to destroy the columns/eliminate enemies, allowing for proper engagement of those mechanics back at the start as the path to progression has been discovered.
 
 ![Storyboard of mechanic introduction 2.8 to 2.9!](DocImages/Storyboard9_13.png) Image depicts storyboard mechanic introduction from 2.8 to 2.9
+
+## 2.10. Moving Platforms
+After gaining skill and expertise over stationary platforming, moving platforms provide a fresh twist to challenge the player
+
+![Storyboard of mechanic introduction 2.10!](DocImages/Storyboard14_19.png) Image depicts storyboard mechanic introduction of 2.10
+
+## 2.11. Spitters
+Having encountered Chompers, the player is now threatened by the range attacking Spitters, but they currently only possess the close-quarters weapon of the Staff; challenging the player to carefully approach and avoid projectiles.
+## 2.12. Weapon Pickup (Gun)
+The Gun eases the difficulty of combat by granting a ranged attack option to the player; balancing the playing field for the onslaught of section 3 by finally allowing them to effectively counter Spitters
+
+![Storyboard of mechanic introduction 2.11 to 2.12!](DocImages/Storyboard20_24.png) Image depicts storyboard mechanic introduction from 2.11 to 2.12
+
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
