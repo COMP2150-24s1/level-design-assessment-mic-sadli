@@ -122,6 +122,7 @@ No additional words are necessary for this section (any words should only be wit
 ![Section 2 map!](DocImages/Section2.png) Image depicts Section 2 Map
 
 ### 3.4.	Level Map – Section 3
+![Section 3 map!](DocImages/Section3.png) Image depicts Section 3 Map
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
