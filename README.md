@@ -21,8 +21,6 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-![This is the alt text for an image!](DocImages/Discovery.png)
-![weewoo!](DocImages/Discovery.png)
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
