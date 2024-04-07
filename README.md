@@ -128,6 +128,15 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+I benefited a lot from the iterative process, as I was able to keep refining my level design and envision new perspectives for my overall design.
+I initially prototyped the level design with pencil on paper, being driven by the need to both facilitate the design goals and satisfy the inclusion of the mandatory features per the assignment guidelines. A need to merge the two had arisen if I wanted to approach the design of the level holistically. Going off from there, I scribbled out a rudimentary molecule diagram to conceptualise how I wanted to set up and combine each element to create distinct sections that would evoke the types of fun that were desired. 
+
+Furthermore, I combined the iterative process with playtesting to help me to better discover a natural flow to the gameplay, as I was able to experience first-hand what objects felt clunky or out of place, and kept repeatedly refining my stage to a point where it felt balanced.
+This is exemplified by the second part of section one, as the branching pathways prompted major deliberation as to how I was going to execute this in practice. In my initial design, the spacing was much more cramped, so enemies would, more often than not, knock me into the acid pool, and I also found that there weren’t any visual points of interest nor incentives to travel through the parkour path with the health packs at first glance (as the healthpack could only be spotted by going on the other path). Thus, in the next iteration, I added spikes to induce a permanent sense of danger, imparting a better risk vs reward scenario as players would be subject to the spikes if they fell, and made the health pack more visible. I furthermore increased the leeway of space, making the challenge of defeating the chomper next to the acid pool much more easier as this was only section one, keeping the difficulty curve low to be elevated within the next sections. 
+
+However, I still feel that this idea of split pathing can be improved and expanded upon through iteration. Perhaps including another split path in section two would help to cohesively uphold this concept, as both section one and three present convergent paths while 2 lacks it. This would further encourage replayability on a deeper level, as players could vary on which path to take their next playthrough, creating a much more meaningful and enjoyable experience. Thus, the iterative process has been paramount in developing the fundamentals of my design to a complex level, enabling me to consider new avenues of potential to my design and its refinement.
+
+
 ## Generative AI Use Acknowledgement
 
 Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
@@ -141,11 +150,5 @@ An example has been included. Please replace this with any actual tools, and add
 
 **Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
 
-### Tool Used: Example
-**Nature of Use** Example Text
 
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
-
-
+I didn't use generative AI, I've just been foolishly rambling. 
