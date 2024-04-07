@@ -112,6 +112,7 @@ A section on Spatiotemporal Design, which includes your molecule diagram and ann
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
+![Overall module Diagram!](DocImages/ModuleDiagram.png) Image depicts the overall mapping and connections between spaces and sections of the map through a module diagram
 
 ### 3.2. Level Map – Section 1
 ![Section 1.1 map!](DocImages/Section1Part1.png) Image depicts Section 1 Map Part one, as the mapping would get too cluttered by the cross pathing, showing the pathing to the key
