@@ -140,4 +140,4 @@ However, I still feel that this idea of split pathing can be improved and expand
 
 
 ## Generative AI Use Acknowledgement
-I didn't use generative AI, I've just been foolishly rambling. 
+I didn't use generative AI.
