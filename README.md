@@ -84,14 +84,14 @@ Provides relief for player after platforming sequence if they lost any health du
 ## 2.7. Keys
 Unreachable key overhead provides a point of interest, prompting the player to explore onwards
 
-![Storyboard of mechanic introduction!](DocImages/Storyboard1_8.png) Image depicts storyboard mechanic introduction from 2.1 to 2.7
+![Storyboard of mechanic introduction 2.1 to 2.7!](DocImages/Storyboard1_8.png) Image depicts storyboard mechanic introduction from 2.1 to 2.7
 
+## 2.8. Passthrough Platforms
+Provides a one way to the staff and ensuing challenge of Chompers, allowing the player to decide when they drop. 
+## 2.9. Weapon Pickup (Staff)
+Provides the interaction to destroy the columns/eliminate enemies, allowing for proper engagement of those mechanics back at the start as the path to progression has been discovered.
 
-### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
-
-### 2.11. Weapon Pickup (Staff)
+![Storyboard of mechanic introduction 2.8 to 2.9!](DocImages/Storyboard9_13.png) Image depicts storyboard mechanic introduction from 2.8 to 2.9
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
