@@ -69,21 +69,23 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+## 2.1. Acid
+Introduces immediate danger to the player, causing them to respawn to the starting checkpoint. As such, it introduces constant peril to platforming.
+## 2.2. Spikes
+Introduces secondary danger to the player, causing them to take damage or potentially knock them into the acid, prompting a respawn. Thus, this prompts further peril when platforming.
+## 2.3. Checkpoints
+Provides a visual indicator to where the player will respawn, and help aid progress. The initial checkpoint signifies the starting point, and will be reused once the player obtains the staff. As such, if the player falls into the acid, it provides a safe area to respawn.
+## 2.4. Breakable Columns
+Initially an unbreakable blockade and a point of interest as it blocks a path and chomper, and cannot be interacted with, prompting the player to explore where the platforms go instead as they currently cannot pass through it without the staff.
+## 2.5. Chompers
+The initial chomper is a point of interest but cannot be interacted with, prompting the player to go away towards exploring the platforms as they currently have no means to defend themself but to eventually come back once they obtain the staff.
+## 2.6. Health Pickups
+Provides relief for player after platforming sequence if they lost any health during the process
+## 2.7. Keys
+Unreachable key overhead provides a point of interest, prompting the player to explore onwards
 
-### 2.2. Checkpoints
+![Storyboard of mechanic introduction!](DocImages/Storyboard1_8.png) Image depicts storyboard mechanic introduction from 2.1 to 2.7
 
-### 2.3. Chompers
-
-### 2.4. Health Pickups
-
-### 2.5. Keys
-
-### 2.6. Moving Platforms
-
-### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
 
 ### 2.9. Spitters
 
